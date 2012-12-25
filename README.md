@@ -2,7 +2,7 @@
 
 ## About
 
-Snowflake is a simple, super light-weight ruby gem to interact with a service-now.com configuration management database. 
+Snowflake is a simple, super light-weight ruby gem to interact with a service-now.com configuration database. 
 
 
 ## Install
