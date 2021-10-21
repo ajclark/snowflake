@@ -9,6 +9,6 @@ Gem::Specification.new do |s|
   s.files       = ["lib/snowflake.rb"]
   s.homepage    = 'http://github.com/ajclark/snowflake'
   s.add_dependency('savon', "~> 1.2.0")
-  s.add_dependency('httparty', "~> 0.6.1")
+  s.add_dependency "httparty", ">= 0.10.0"
   s.add_dependency('akami', "~> 1.2.0")
 end
